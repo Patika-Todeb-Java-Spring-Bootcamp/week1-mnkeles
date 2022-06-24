@@ -1,6 +1,5 @@
 # CarHomework Project
-Imutable snınıfları anlamak için yapılan örnek
-
+Imutable snınıfları anlamak için yapılan örnek.
 
 
 # ScoreFileHomework Project
